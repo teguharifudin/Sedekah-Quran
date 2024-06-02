@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52077041067",
+    "project_id": "sedekah-quran-2561c",
+    "storage_bucket": "sedekah-quran-2561c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52077041067:android:2d8fb2efe4308f15a1aeee",
+        "android_client_info": {
+          "package_name": "com.teguharief.sedekahquranindonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52077041067-93pg7oqhbjn6utkrctbchku03jbdjdl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6_Xhr4QYaOTpKbtHDdcJTv9LNaP1ti4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52077041067-93pg7oqhbjn6utkrctbchku03jbdjdl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
